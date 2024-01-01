@@ -1,6 +1,12 @@
 # Fuzzy Inference System for Internship Report Evaluation 
 
-This project aims to implement a Mamdani-type fuzzy inference system for evaluating internship reports using the Python Fuzzy-Expert package. The fuzzy system takes three input variables: Results Obtained (out of 20), Methods Used (out of 20), and Presentation (out of 20). It outputs the overall evaluation of the report on a scale of 20. For each input variable, three linguistic values are defined: **Poor, Average, Excellent**. However, for the overall evaluation, five linguistic values are defined: **Poor, Bad, Average, Good, Excellent**.
+This project aims to implement a Mamdani-type fuzzy inference system for evaluating internship reports using the Python Fuzzy-Expert package. The fuzzy system takes three input variables: 
+- Results Obtained (out of 20),
+- Methods Used (out of 20),
+- Presentation (out of 20).
+It outputs the overall evaluation of the report on a scale of 20.
+For each input variable, three linguistic values are defined: **Poor, Average, Excellent**.
+However, for the overall evaluation, five linguistic values are defined: **Poor, Bad, Average, Good, Excellent**.
 
 ## Rule Base
 
